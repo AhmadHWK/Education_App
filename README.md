@@ -1,4 +1,4 @@
-# learning_system
+# Education_App
 
 A new Flutter project.
 
